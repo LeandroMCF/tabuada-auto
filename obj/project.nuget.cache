@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIAmEscHnU9UHMSFU8llIRhy19fLGvQBzaQkix/g4R/IJV9Qy2xwB00frLgCU/7pvkET318Ui22uTIqXQ0sCxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\tabuada-auto\\tabuada-auto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

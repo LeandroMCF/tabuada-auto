@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.exe
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.dll
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\bin\Debug\netcoreapp3.1\tabuada-auto.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.dll
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\tabuada-auto\obj\Debug\netcoreapp3.1\tabuada-auto.genruntimeconfig.cache
